@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-poc/static/css/main.d0c674ea.css",
+    "main.js": "/react-poc/static/js/main.af716fa8.js",
+    "static/js/787.dbb0683f.chunk.js": "/react-poc/static/js/787.dbb0683f.chunk.js",
+    "index.html": "/react-poc/index.html",
+    "main.d0c674ea.css.map": "/react-poc/static/css/main.d0c674ea.css.map",
+    "main.af716fa8.js.map": "/react-poc/static/js/main.af716fa8.js.map",
+    "787.dbb0683f.chunk.js.map": "/react-poc/static/js/787.dbb0683f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c674ea.css",
+    "static/js/main.af716fa8.js"
+  ]
+}
